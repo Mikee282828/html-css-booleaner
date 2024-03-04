@@ -1,5 +1,5 @@
 #container{
-  width:80%;
+  width:75%;
   margin:auto;
 }
 #logo{
@@ -25,6 +25,7 @@
   box-sizing:border-box;
   font-family: Arial;
   margin:0;
+  padding:0;
 }
 
 h1{
@@ -43,11 +44,63 @@ h1{
 }
 
 #Tim1{
-  width:40vw;
-  height:100%;
+  width:35vw;
 }
 
 #Tim2{
-  width:38vw;
-  height:80%;
+  width:30vw;
+}
+
+figcaption{
+  font-size: small;
+}
+
+p{
+  margin-top:3vh;
+  margin-bottom:3vh;
+}
+ul{
+  padding:1em;
+}
+
+.corto{
+  width:25%;
+}
+
+.celeste{
+  background-color:rgba(0, 208, 255, 0.546);
+}
+.white{
+  color:white;
+}
+
+thead{
+  background-color:rgb(0, 174, 255);
+}
+table{
+  border-collapse: collapse;
+}
+#suggerimenti{
+  color:grey;
+  margin-bottom:1vh;
+}
+.firstImg{
+  background-image: url("../img/monitor.jpg");
+  background-size:100%;
+  width:312px;
+  height:208px;
+  margin-bottom:1vh;
+}
+
+.secondImg{
+  background-image: url("../img/graph.jpg");
+  background-size:100%;
+  width:311px;
+  height:207px;
+}
+
+.Lorem{
+  font-weight:bold;
+  font-size:larger;
+  padding-top:
 }
