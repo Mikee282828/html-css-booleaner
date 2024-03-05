@@ -4,16 +4,14 @@
 }
 #logo{
   background-image:url("../img/pattern.png"); 
-  background-size:350px 175px;
-  background-repeat:repeat;
-  width:100vw;
+  background-size:30% auto;
   height:11vh;
   position:relative;
   background-color: rgb(78,160,255);
 }
 
 #boolean{
-  height: 50%;
+  height: 8vh;
   width:auto;
 
   position:absolute;
